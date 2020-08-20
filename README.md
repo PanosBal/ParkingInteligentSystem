@@ -1,5 +1,5 @@
 # Intelligent Parking Management System
-A complet emanagement simulation system of parking for different cities. The goal of the project is to provide parking space suggestions according to the time of the day (SupportedonlyinGreek).
+A complete management simulation system of parking for different cities. The goal of the project is to provide parking space suggestions according to the time of the day (Supported only inGreek).
 
 ## Description
 The admin have to upload a kml file of the city of his choice , in addition to coordinates the file must contains the population of each building block.
